@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahin Mon</h1>
-<h3 align="center">A passionate MERN Full Stack developer from T</h3>
+<h3 align="center">A passionate MERN Full Stack developer from Tamil Nadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahinmon2903&label=Profile%20views&color=0e75b6&style=flat" alt="rahinmon2903" /> </p>
 
