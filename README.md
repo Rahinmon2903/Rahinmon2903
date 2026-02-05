@@ -1,23 +1,47 @@
-<h1 align="center">Hi 👋, I'm Rahin Mon</h1>
-<h3 align="center">A passionate MERN Full Stack developer from Tamil Nadu</h3>
+<h1 align="center">Hi, I'm Rahin Mon 👋</h1>
+<h3 align="center">MERN Stack Developer | Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahinmon2903&label=Profile%20views&color=0e75b6&style=flat" alt="rahinmon2903" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahinmon2903" alt="rahinmon2903" /></a> </p>
-
-- 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMENT**
-
-- 💬 Ask me about **javascript,SQL,React.js,HTML,CSS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://portfolio-latest-reucbpgwe-rahin-mon-ss-projects.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rahin-mon-877b2421b/">LinkedIn</a> •
+  <a href="https://github.com/Rahinmon2903">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahinmon2903&show_icons=true&locale=en&layout=compact" alt="rahinmon2903" /></p>
+### 👨‍💻 About Me
+- MERN Stack Developer with hands-on experience building full stack web applications  
+- Experienced in REST APIs, JWT authentication, and role-based access control (RBAC)  
+- Completed a paid internship at **Siemens**  
+- Passionate about building secure, scalable web applications  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahinmon2903&show_icons=true&locale=en" alt="rahinmon2903" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahinmon2903&" alt="rahinmon2903" /></p>
+### 🛠️ Tech Stack
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Tools:** Git, GitHub, Postman, Power BI  
+
+---
+
+### 🚀 Featured Projects
+- **AI Resume Analysis Platform (MERN Stack)**  
+  👉 https://ai-job-intel-frontend.vercel.app/
+
+- **Role-Based Access Control Dashboard (MERN Stack)**  
+  👉 https://saas-role-front-b3o9y2fsp-rahin-mon-ss-projects.vercel.app/
+
+- **Invoice Management System (React)**  
+  👉 https://invoice-builder-project.vercel.app/
+
+- **CineVerse – Movie Review Application**  
+  👉 https://moviereview-project.vercel.app/
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rahin-mon-877b2421b/
+- Portfolio: https://portfolio-latest-reucbpgwe-rahin-mon-ss-projects.vercel.app/
+- Email: rahin2903@gmail.com
+
